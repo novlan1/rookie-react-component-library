@@ -1,20 +1,20 @@
-## Vikingship component library
+## Rookie component library
 
 React组件库
 
 ### 安装最后已经发布的组件库来试试
 
 ~~~javascript
-npm install vikingship --save
+npm install rookie-design --save
 ~~~
 
 ### 使用
 
 ~~~javascript
 // 加载样式
-import 'vikingship/dist/index.css'
+import 'rookie-design/dist/index.css'
 // 引入组件
-import { Button } from 'vikingship'
+import { Button } from 'rookie-design'
 ~~~
 
 
